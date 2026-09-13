@@ -1,0 +1,4 @@
+ age  annual_income  total_debt  credit_history_years  late_payments  credit_utilization  existing_loans  savings  employment_years  debt_to_income
+  40        27177.4    15139.94                  7.37              4               0.405               2 23708.65              2.83           0.557
+Prediction: Not Creditworthy
+Probability of being creditworthy: 0.3367
